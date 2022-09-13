@@ -1,0 +1,27 @@
+header {
+    background-color: darkgreen;
+    text-align: center;
+}
+
+main {
+    background-color: lightgrey;
+    padding: 1em;
+}
+
+.wholePage {
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0;
+}
+
+#q1 {
+    background-color: turquoise;
+}
+
+#qList {
+    background-color: blue;
+}
+
+.titleLine {
+    color: azure;
+}
